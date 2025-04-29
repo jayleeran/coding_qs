@@ -1,4 +1,4 @@
-# Original prompt for "graph_path" exercise:
+# Original prompt for "grid_path" exercise:
 
 Problem Description:
 
